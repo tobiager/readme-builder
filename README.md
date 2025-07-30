@@ -171,6 +171,26 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
 [![tobiager](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=transparent" width="90%" />
+</p>
+
+## ⏱️ GitHub Streak
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tobiager&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=tobiager&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
+</p>
+
 
 ## Themes
 
