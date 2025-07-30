@@ -90,4 +90,10 @@ Give a star ⭐ if you find it useful.
 
 ---
 
+<p align="center">
+  <a href="https://github.com/tobiager" target="_blank">
+    <img src="jagerlogo.gif" alt="Jagermeister Logo" width="180" />
+  </a>
+</p>
+
 <p align="center"><b>Built with ❤️ by <a href="https://github.com/tobiager">Tobias</a></b></p>
