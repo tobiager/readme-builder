@@ -1,125 +1,93 @@
-# 📚 README Ultimate Builder
+# 🚀 README Builder
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/tobiager/readme-ultimate-builder?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/tobiager/readme-ultimate-builder?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/tobiager/readme-ultimate-builder?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/tobiager/readme-builder?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/tobiager/readme-builder?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/tobiager/readme-builder?style=for-the-badge" />
 </p>
 
-<h2 align="center">The ultimate fusion of the best README resources on GitHub</h2>
-<p align="center">Templates + Stats + Badges = The last README toolkit you'll ever need ⚡</p>
+<p align="center">
+  <a href="https://github.com/tobiager" target="_blank">
+    <img src="jagerlogo.gif" alt="Jägermeister Logo Spinning" width="180" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tobiager">
+    <img src="https://img.shields.io/github/followers/tobiager?label=Follow%20@tobiager&style=social" alt="Follow @tobiager" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About the Project
+## 🧰 About This Repo
 
-This repository combines the strengths of:
+**README Builder** is the ultimate GitHub profile creator — combining the best of:
 
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-* [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- 🧩 Templates inspired by `iuricode/readme-template`
+- 📊 GitHub stat widgets from `anuraghazra/github-readme-stats`
+- 🎖️ Badge collections from `Ileriayo/markdown-badges`
+- 📦 Layout structure modeled on `othneildrew/Best-README-Template`
 
-to help you build **powerful, elegant, and expressive** READMEs — whether for your **profile** or your **projects**.
-
----
-
-## 📦 Features
-
-* ✅ Modular README templates for every style: creative, professional, minimal.
-* ✅ Dynamic GitHub stat widgets and customizable themes.
-* ✅ Hundreds of Markdown badges grouped by category.
-* ✅ Pre-built sections for About, Tech Stack, Contact, and more.
-* ✅ Ready-to-use examples, including real profiles like [@tobiager](https://github.com/tobiager).
+Whether you’re building your very first README or leveling up your personal brand, this repo gives you **everything in one place**, customizable and aesthetic.
 
 ---
 
-## 🧱 Folder Structure
+## 📁 Folder Structure
 
-```bash
-readme-ultimate-builder/
-├── templates/         # Complete README templates (creative, minimal, pro)
-├── widgets/           # GitHub stats widgets (cards, streaks, languages)
-├── badges/            # Tech/tool badges (Frontend, Backend, DBs, DevOps)
-├── sections/          # Modular sections (About, Stack, Contact, etc.)
-├── examples/          # Ready-to-copy examples (like tobiager.md)
-├── assets/            # Optional banners, logos
-├── README.md          # This file 💪
+```
+readme-builder/
+├── advanced/          # High-quality templates (minimal, creative, pro)
+├── badges-shields/    # Shields.io badges by type
+├── cards-status/      # GitHub stat cards: streaks, activity, langs
+├── assets/            # Logos, visuals, banners
+├── README.md          # This file ✨
 └── LICENSE
 ```
 
 ---
 
-## 🛠️ How to Use
+## 🧪 How to Use
 
-1. Clone this repo or click **"Use this template"**
-2. Pick a base template from `templates/`
-3. Add widgets from `widgets/`
-4. Choose badges from `badges/`
-5. Mix and match sections from `sections/`
-6. Customize and copy into your README.md
+1. **Fork** or **Clone** this repo.
+2. Go to `advanced/` for sample README layouts.
+3. Choose badges from `badges-shields/` (grouped by tech, role, etc).
+4. Pick your stats and GitHub cards from `cards-status/`.
+5. Customize your README section by section:
+   - About Me
+   - Projects
+   - Tech Stack
+   - Stats
+   - Contact Info
+   - Extra flair (GIFs, memes, Jäger 💀)
 
----
-
-## 🧪 Example: @tobiager
-
-Here's a real use case with Tobias Orban's profile:
-
-### 🎨 About
-
-```md
-- 🎓 Bachelor's student in Information Systems @ UNNE
-- ⚽ Football fan, full-stack developer & content creator
-- 🚀 Building apps like Tribuneros & Rama Automotores
-```
-
-### 📊 GitHub Stats
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobiager&show_icons=true&theme=transparent&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=tobiager&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&layout=compact&theme=transparent&hide_border=true)
-```
-
-### 🛠️ Tech Stack
-
-```md
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-```
-
-### 🔗 Social
-
-```md
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tobiager)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tobiager)
-```
+6. Replace placeholders with your data (like `username=tobiager`).
+7. Commit & Push. Done.
 
 ---
 
-## 📌 Contributions
+## ✨ Why Use This
 
-Pull requests welcome! 💬 Ideas, themes, styles, new badge groups, and creative templates are all appreciated.
-
-1. Fork it 🍴
-2. Create your branch: `git checkout -b cool-feature`
-3. Commit: `git commit -m 'Add amazing feature'`
-4. Push it: `git push origin cool-feature`
-5. Open a PR 🙌
+- Full customization, modular components
+- Avoid messy emoji-overload 🙃
+- Modern aesthetic with just enough swagger
+- Perfect for students, devs, freelancers or meme coders
 
 ---
 
-## 📃 License
+## 📸 Screenshots
 
-MIT © [@tobiager](https://github.com/tobiager) — Feel free to use and improve this toolkit.
+| Example Layout | GitHub Stats Example |
+|----------------|-----------------------|
+| ![Layout](assets/example-readme-1.png) | ![Stats](assets/example-readme-2.png) |
 
 ---
 
-## ❤️ Acknowledgments
+## 📝 License
 
-* [othneildrew](https://github.com/othneildrew)
-* [anuraghazra](https://github.com/anuraghazra)
-* [ileriayo](https://github.com/Ileriayo)
-* [shields.io](https://shields.io)
-* All open-source contributors 🙏
+MIT — feel free to use, remix, and share.  
+Give a star ⭐ if you find it useful.
+
+---
+
+<p align="center"><b>Built with ❤️ by <a href="https://github.com/tobiager">Tobias</a></b></p>
