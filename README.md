@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/tobiager" target="_blank">
-    <img src="image.png" alt="Constructor" width="180" />
+    <img src="banner.png" alt="Banner Constructor" width="600" />
   </a>
 </p>
 
