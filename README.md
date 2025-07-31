@@ -211,6 +211,48 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=POO-UNNE-2024&theme=transparent&hide_border=true" alt="POO-UNNE-2024 repo card"/>
 </a>
 
+## Quick Tip (Align The Cards)
+
+By default, GitHub does not lay out the cards side by side. To do that, you can use this approach:
+
+```html
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+```
+
+```html
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+```
+
+<details>
+<summary>:eyes: Show example</summary>
+
+<a href="https://github.com/tobiager/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tobiager" />
+</a>
+<a href="https://github.com/tobiager/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobiager&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+***
+
+<a href="https://github.com/tobiager/readme-builder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=readme-builder" />
+</a>
+<a href="https://github.com/tobiager/readme-builder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=POO-UNNE-2024" />
+</a>
+
+</details>
 
 ## Themes
 
