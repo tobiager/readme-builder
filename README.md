@@ -21,6 +21,15 @@
 
 ---
 
+##  What is this?
+
+**README Builder** is a complete toolkit to create and customize professional GitHub READMEs without writing from scratch.  
+It includes templates, badges, GitHub stats, custom banners, and everything you need to build a standout profile or project README.  
+Perfect for developers who want to showcase their work, highlight contributions, and personalize their GitHub presence in minutes.
+
+
+---
+
 ## Index
 
 - [Advanced Formatting](#advanced-formatting)
@@ -123,7 +132,7 @@ You can use GeoJSON or TopoJSON syntax to create interactive maps. To create a m
 <details id="github-stats" close>
 <summary><h2>GitHub Stats</h2></summary>
 
-# 📊 How to Use GitHub Stats Cards
+#  How to Use GitHub Stats Cards
 
 ## How to Use the Cards?
 
