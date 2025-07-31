@@ -104,26 +104,20 @@ You can use GeoJSON or TopoJSON syntax to create interactive maps. To create a m
   "features": [
     {
       "type": "Feature",
-      "id": 1,
       "properties": {
-        "ID": 0
+        "name": "Obelisco de Buenos Aires"
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-90, 35],
-            [-90, 30],
-            [-85, 30],
-            [-85, 35],
-            [-90, 35]
-          ]
-        ]
+        "type": "Point",
+        "coordinates": [-58.381570, -34.603738]
       }
     }
   ]
 }
+
+
 ```
+
 ---
 
 <details id="github-stats" close>
