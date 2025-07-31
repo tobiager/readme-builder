@@ -1,11 +1,10 @@
+<div align="center">
 
 <p align="center">
   <a href="https://github.com/tobiager" target="_blank">
     <img src="banner1.png" alt="Banner Constructor" width="800" />
   </a>
 </p>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/tobiager/readme-builder?style=for-the-badge" />
@@ -19,7 +18,10 @@
   </a>
 </p>
 
----
+# Readme Builder
+
+
+✦ [How to Use](#how-to-use) ✦ [Top Contributors](#top-Contributors) ✦ 
 
 ##  What is this?
 
@@ -27,6 +29,7 @@
 It includes templates, badges, GitHub stats, custom banners, and everything you need to build a standout profile or project README.  
 Perfect for developers who want to showcase their work, highlight contributions, and personalize their GitHub presence in minutes.
 
+</div>
 
 ---
 
