@@ -1391,22 +1391,16 @@ Tip: You can combine it with memes, GIFs, code, or whatever represents you. The 
 ---
 ## Why This Exists
 
-Me harté de ver READMEs sin onda o con millones de emojis sin sentido.  
-README Builder te da todo en un solo lugar, listo para copiar, personalizar y pegar.  
-Sirve tanto si estás arrancando como si ya estás en modo ninja del código.
+I'm tired of seeing READMEs that are lame or have millions of meaningless emojis.
+README Builder gives you everything in one place, ready to copy, customize, and paste.
+It works whether you're just starting out or already in code ninja mode.
 
 ---
 
 ## License
 
-MIT — usalo, modificalo y compartilo.  
-Pero si te gustó, tirá una estrella y seguime.
-
-<p align="center">
-  <a href="https://github.com/tobiager" target="_blank">
-    <img src="jagerlogo.gif" alt="Jagermeister Logo" width="180" />
-  </a>
-</p>
+MIT — use it, modify it, and share it.
+But if you liked it, give it a star and follow me.
 
 ---
 
@@ -1417,5 +1411,11 @@ Thanks to everyone who's helping this project grow. Your contribution can also b
 <a href="https://github.com/tobiager/readme-builder/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tobiager/readme-builder" />
 </a>
+
+<p align="center">
+  <a href="https://github.com/tobiager" target="_blank">
+    <img src="jagerlogo.gif" alt="Jagermeister Logo" width="180" />
+  </a>
+</p>
 
 <p align="center"><b>Built with ❤️ by <a href="https://github.com/tobiager">Tobias</a></b></p>
