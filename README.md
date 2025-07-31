@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/tobiager" target="_blank">
-    <img src="banner2.png" alt="Banner Constructor" width="800" />
+    <img src="banner1.png" alt="Banner Constructor" width="800" />
   </a>
 </p>
 
