@@ -177,6 +177,13 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=transparent" width="90%" />
 </p>
 
+## 📈 GitHub Graphic
+
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="tobiager's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tobiager&theme=github-compact&bg_color=00000000&color=2986cc&line=2986cc&point=3d85c6&area=true&hide_border=true" />
+</a>
+
 ## ⏱️ GitHub Streak
 
 <p align="center">
@@ -190,6 +197,12 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=tobiager&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
 </p>
+
+### 📍 Repositories Pin
+<a href="https://github.com/tobiager/readme-builder">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=readme-builder&theme=transparent&hide_border=true" alt="readme-builder repo card"/>
+</a>
+
 
 
 ## Themes
