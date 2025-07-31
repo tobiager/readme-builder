@@ -1412,6 +1412,8 @@ Thanks to everyone who's helping this project grow. Your contribution can also b
   <img src="https://contrib.rocks/image?repo=tobiager/readme-builder" />
 </a>
 
+---
+
 <p align="center">
   <a href="https://github.com/tobiager" target="_blank">
     <img src="jagerlogo.gif" alt="Jagermeister Logo" width="180" />
