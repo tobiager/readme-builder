@@ -200,6 +200,9 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=readme-builder&theme=transparent&hide_border=true" alt="readme-builder repo card"/>
 </a>
 
+<a href="https://github.com/tobiager/POO-UNNE-2024">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=POO-UNNE-2024&theme=transparent&hide_border=true" alt="POO-UNNE-2024 repo card"/>
+</a>
 
 
 ## Themes
