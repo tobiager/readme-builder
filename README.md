@@ -37,8 +37,8 @@ Perfect for developers who want to showcase their work, highlight contributions,
 - [Badges & Shields](#badges--shields)
 - [Creating GIFs](#creating-gifs)
 - [How to Use](#how-to-use)
-- [Why This Exists](#why-this-exists)
 - [Examples](#examples)
+- [Why This Exists](#why-this-exists)
 - [License](#license)
 
 ---
