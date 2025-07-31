@@ -23,7 +23,7 @@
 
 ## Index
 
-- [Advanced Templates](#advanced-templates)
+- [Advanced Formatting](#advanced-formatting)
 - [GitHub Stats](#github-stats)
 - [Badges & Shields](#badges--shields)
 - [How to Use](#how-to-use)
@@ -32,11 +32,8 @@
 - [License](#license)
 
 ---
+<summary><h2>Advanced Formatting</h2></summary>
 
-<details id="advanced-templates" open>
-<summary><h2>Advanced Templates</h2></summary>
-
-# 🐙 Advanced Formatting
 
 ## Alerts
 
@@ -127,9 +124,9 @@ You can use GeoJSON or TopoJSON syntax to create interactive maps. To create a m
   ]
 }
 ```
+---
 
-</details>
-<details id="github-stats" open>
+<details id="github-stats" close>
 <summary><h2>GitHub Stats</h2></summary>
 
 # 📊 How to Use GitHub Stats Cards
@@ -282,7 +279,7 @@ Available themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, sy
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-<details id="badges--shields" open>
+<details id="badges--shields" close>
 <summary><h2>Badges & Shields</h2></summary>
 
 ![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
@@ -1345,18 +1342,18 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 
 ## How to Use
 
-Hola, soy **Tobias**. Armé este proyecto para que cualquiera pueda tener un README fachero, profesional y viral.  
-Acá te explico cómo usarlo:
+Hi, I'm **Tobias**. I created this project so anyone can have a cool, professional, and viral README.
+Here's how to use it:
 
-1. Forkeá o cloná este repositorio.
-2. Mirá los templates en la sección Advanced Templates.
-3. Elegí los badges que te representen (lenguajes, frameworks, tools).
-4. Agregá tus stats.
-5. Personalizá secciones como "About Me", "Contacto", o agregá tus proyectos.
-6. Subí tu nuevo README a tu perfil o repositorio.  
-7. Dale like a este repo si te sirvió.
+1. Fork or clone this repository.
+2. Check out the templates in the Advanced Templates section.
+3. Choose the badges that represent you (languages, frameworks, tools).
+4. Add your stats.
+5. Customize sections like "About Me," "Contact," or add your projects.
+6. Upload your new README to your profile or repository.
+7. Like this repo if it helped you.
 
-Tip: Podés combinarlo con memes, GIFs, código o lo que te represente. El README es tuyo, hacelo único.
+Tip: You can combine it with memes, GIFs, code, or whatever represents you. The README is yours, make it unique.
 
 ---
 
