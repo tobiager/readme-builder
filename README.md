@@ -1386,7 +1386,7 @@ Tip: You can combine it with memes, GIFs, code, or whatever represents you. The 
 | Perfil | README |
 |--------|--------|
 | @tobiager | [Ver ejemplo](https://github.com/tobiager) |
-| @otrodev | [Ver ejemplo](https://github.com/otrodev) |
+
 
 ---
 ## Why This Exists
