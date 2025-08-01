@@ -145,10 +145,10 @@ It's simple: just copy and paste into your README — and you're done!
 Replace `tobiager` with your GitHub username if you're sharing this with others.
 
 ```md
-[![card](https://github-readme-stats.vercel.app/api?username=tobiager&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=tobiager&theme=default)](https://github.com/tobiager/github-readme-stats)
 ```
 
-[![tobiager](https://github-readme-stats.vercel.app/api?username=tobiager&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![tobiager](https://github-readme-stats.vercel.app/api?username=tobiager&theme=default)](https://github.com/tobiager/github-readme-stats)
 
 ### Adding Icons
 
@@ -156,7 +156,7 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
 [![card](https://github-readme-stats.vercel.app/api?username=tobiager&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![tobiager](https://github-readme-stats.vercel.app/api?username=tobiager&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![tobiager](https://github-readme-stats.vercel.app/api?username=tobiager&theme=default&show_icons=true)](https://github.com/tobiager/github-readme-stats)
 
 ## Showing Languages
 
@@ -164,7 +164,7 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
 [![tobiager](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![tobiager](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![tobiager](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&hide=html&layout=compact&theme=default)](https://github.com/tobiager/github-readme-stats)
 
 ## Or
 
@@ -172,7 +172,7 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
 [![tobiager](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![tobiager](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![tobiager](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&layout=compact)](https://github.com/tobiager/github-readme-stats)
 
 ---
 ## 📊 GitHub Stats
