@@ -181,6 +181,13 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=transparent" width="90%" />
 </p>
 
+```md
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=transparent" width="90%" />
+```
+
+📌 What it does:  
+Summarizes your contributions: commits, PRs, issues, code reviews, and more — in a compact summary card.
+
 ## 📈 GitHub Graphic
 
 <!-- GitHub Activity Graph -->
@@ -188,21 +195,44 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
   <img alt="tobiager's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tobiager&theme=github-compact&bg_color=00000000&color=2986cc&line=2986cc&point=3d85c6&area=true&hide_border=true" />
 </a>
 
-## ⏱️ GitHub Streak
+```md
+<img alt="tobiager's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tobiager&theme=github-compact&bg_color=00000000&color=2986cc&line=2986cc&point=3d85c6&area=true&hide_border=true" />
+```
+
+📌 What it does:  
+Displays a heatmap-style graph showing your daily commit activity over time.
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tobiager&theme=transparent&hide_border=true" />
 </p>
 
+```md
+<img src="https://nirzak-streak-stats.vercel.app/?user=tobiager&theme=transparent&hide_border=true" />
+```
+
+📌 What it does:  
+Tracks your current streak of consecutive days with contributions.
+
 ---
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=tobiager&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
 </p>
 
-### 📍 Repositories Pin
+```md
+<img src="https://github-contributor-stats.vercel.app/api?username=tobiager&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
+```
+
+📌 What it does:  
+Lists the top repositories (including others') you've contributed to the most.
+
+---
+
+## 📍 Repositories Pin
 <a href="https://github.com/tobiager/readme-builder">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=readme-builder&theme=transparent&hide_border=true" alt="readme-builder repo card"/>
 </a>
@@ -210,6 +240,20 @@ Replace `tobiager` with your GitHub username if you're sharing this with others.
 <a href="https://github.com/tobiager/POO-UNNE-2024">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=POO-UNNE-2024&theme=transparent&hide_border=true" alt="POO-UNNE-2024 repo card"/>
 </a>
+
+
+```md
+<a href="https://github.com/tobiager/readme-builder">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=readme-builder&theme=transparent&hide_border=true" alt="readme-builder repo card"/>
+</a>
+
+<a href="https://github.com/tobiager/POO-UNNE-2024">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=POO-UNNE-2024&theme=transparent&hide_border=true" alt="POO-UNNE-2024 repo card"/>
+</a>
+```
+
+📌 What it does:  
+Highlights specific repositories with details like name, description, stars, and tech stack — ideal for featured projects.
 
 ## Quick Tip (Align The Cards)
 
