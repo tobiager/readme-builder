@@ -298,6 +298,9 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 
 </details>
 
+## Stats
+![Alt]( https://repobeats.axiom.co/api/embed/ddc0583f6683090632db37054346233d5a41effd.svg "Imagen de análisis de Repobeats")
+
 ## Themes
 
 Change `default` to the theme name you want to use.
